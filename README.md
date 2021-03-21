@@ -3,9 +3,9 @@
 
 ## User Story
 
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
+AS AN avid traveller,<br />
+I WANT to be able to track my withdrawals and deposits with or without a data/internet connection,<br />
+SO THAT my account balance is accurate when I am traveling.
 
 ## Business Context
 
@@ -24,8 +24,8 @@ When brought back online:
 
 ## Acceptance Criteria
 
-GIVEN a user is on Budget App without an internet connection
-WHEN the user inputs a withdrawal or deposit
+GIVEN a user is on Budget App without an internet connection,<br />
+WHEN the user inputs a withdrawal or deposit,<br />
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
 ## Demo
